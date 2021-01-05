@@ -1,0 +1,6 @@
+{
+  "name": "warszaweka/composer-test",
+  "replace": {
+    "warszaweka/composer-test-replaces": "2.0"
+  }
+}
