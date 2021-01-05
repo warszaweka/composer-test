@@ -1,6 +1,9 @@
 {
   "name": "warszaweka/composer-test",
   "replace": {
-    "warszaweka/composer-test-replaces": "2.0"
+    "warszaweka/composer-test-replaced": "2.0"
+  },
+  "provide": {
+    "warszaweka/composer-test-provided": "6.0"
   }
 }
