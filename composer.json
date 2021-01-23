@@ -1,5 +1,6 @@
 {
   "name": "warszaweka/composer-test",
+  "license": "MIT",
   "replace": {
     "warszaweka/composer-test-replaced": "2.0"
   },
